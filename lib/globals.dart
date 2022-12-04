@@ -1,0 +1,2 @@
+String? city;
+String? state;

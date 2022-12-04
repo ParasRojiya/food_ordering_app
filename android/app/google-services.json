@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261628611989",
+    "project_id": "food-ordering-system-b0843",
+    "storage_bucket": "food-ordering-system-b0843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261628611989:android:3452671b47ff9f9dde3a9c",
+        "android_client_info": {
+          "package_name": "com.rparas.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261628611989-3t78biped2ligkkj8grod7hm66op6g2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rparas.food_app",
+            "certificate_hash": "c3a9377677429e7b7c2ef5d765be1b885d063e6f"
+          }
+        },
+        {
+          "client_id": "261628611989-4ss9ktv68eiqsq9jd1d3trmnpoti7kdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18UFiDl0Yr3lhJFD4ygKXHeerXNqkWmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261628611989-4ss9ktv68eiqsq9jd1d3trmnpoti7kdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
